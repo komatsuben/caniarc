@@ -6,7 +6,7 @@ In essence, this is a repository containing school materials & notes, in collabo
 
 ## Authors
 
-- [@Benedict02](https://www.github.com/Benedict02)
+- [@komatsuben](https://www.github.com/komatsuben)
 - Gabrio Manuel Kapuangan
 - Vincent Benedict Tjoeng
 - Nathanael Ethan Santoso
@@ -71,7 +71,7 @@ If you have any feedback, contact benedicthalim1@gmail.com
 
 ## 🔗 Links
 
-https://benedict02.github.io/caniarc/
+https://komatsuben.github.io/caniarc/
 
 If you find this useful, help fund this project(give me money)!
 
